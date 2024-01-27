@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7jO02+BG7NWC5FtGsXYkhhF6saNi9gJET9EQO8uwwnMElrkICCYbvBSwSyL7q2V/SbiIsrieCzKKMBmozAcHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme\\Documents\\GitHub\\richdomains.learn\\Unit Testing\\UnitTesting.balta.io\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
