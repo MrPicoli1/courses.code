@@ -1,0 +1,15 @@
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\bin\Debug\net8.0\Payment.Context.Domain.deps.json
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\bin\Debug\net8.0\Payment.Context.Domain.dll
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\bin\Debug\net8.0\Payment.Context.Domain.pdb
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\bin\Debug\net8.0\Payment.Context.Shared.dll
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\bin\Debug\net8.0\Payment.Context.Shared.pdb
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\Payment.Context.Domain.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\Payment.Context.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\Payment.Context.Domain.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\Payment.Context.Domain.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\Payment.Context.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\Payment.Context.Domain.csproj.CopyComplete
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\Payment.Context.Domain.dll
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\refint\Payment.Context.Domain.dll
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\Payment.Context.Domain.pdb
+C:\Users\Guilherme\source\repos\aprender.balta\Payment.Context.Domain\obj\Debug\net8.0\ref\Payment.Context.Domain.dll
