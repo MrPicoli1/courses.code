@@ -50,5 +50,7 @@ namespace UtmBuilder.Core.ValueObjects
         /// Use to differentiate ads
         /// </summary>
         public string ?Content { get; set; }
+
+
     }
 }

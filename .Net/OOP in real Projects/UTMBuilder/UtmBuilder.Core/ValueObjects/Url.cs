@@ -1,5 +1,4 @@
-﻿using System.Net.Http.Headers;
-using System.Text;
+﻿using System.Text;
 using UtmBuilder.Core.ValueObjects.Exceptions;
 
 namespace UtmBuilder.Core.ValueObjects
@@ -27,14 +26,7 @@ namespace UtmBuilder.Core.ValueObjects
         /// </summary>
         public string Address { get;  }
 
-        public override string ToString()
-        {
-            var sb = new StringBuilder();
-            sb.Append(Address);
-            sb.Append("utm_source=");
-
-            return sb.ToString();
-        }
+       
 
     }
 }
