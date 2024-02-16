@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\bin\Debug\net8.0\CodeChallenges.exe
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\bin\Debug\net8.0\CodeChallenges.deps.json
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\bin\Debug\net8.0\CodeChallenges.runtimeconfig.json
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\bin\Debug\net8.0\CodeChallenges.dll
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\bin\Debug\net8.0\CodeChallenges.pdb
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\CodeChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\CodeChallenges.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\CodeChallenges.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\CodeChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\CodeChallenges.sourcelink.json
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\CodeChallenges.dll
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\refint\CodeChallenges.dll
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\CodeChallenges.pdb
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\CodeChallenges.genruntimeconfig.cache
+C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\Code Challenges\CodeChallenges\obj\Debug\net8.0\ref\CodeChallenges.dll
