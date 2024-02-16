@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeChallenges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98f63238e2bb271a27ac2b75176e715fca02e8f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0282eee72db4a255617907623aaa3f2769c52621")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeChallenges")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeChallenges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
