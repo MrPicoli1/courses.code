@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9PGPSuVg+yszMZXPkkUQKYifBxGGpEM2Qw9AvYkoa6b5PGfui3o/NJIIPd8pYUWWfYWejRwXc7zqbejsMbg6BQ==",
+  "dgSpecHash": "bfaRtnaUx+2YqfTDrgKMhjXtOzzkLGMSseuImVFBr3bi+Y784O5OOIAxvtjV6ApOsYgXwx/hjD1alrHdH8tK9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\aprender.balta\\Payment.Context.Shared\\Payment.Context.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\Documents\\GitHub\\richdomains.learn\\.Net\\Rich Domains\\Payment.Context.Shared\\Payment.Context.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
   ],

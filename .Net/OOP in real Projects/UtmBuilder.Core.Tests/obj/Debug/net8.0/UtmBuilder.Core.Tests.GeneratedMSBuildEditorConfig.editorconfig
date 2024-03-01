@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UtmBuilder.Core.Tests
-build_property.ProjectDir = C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\OOP in real Projects\UTMBuilder\UtmBuilder.Core.Tests\
+build_property.ProjectDir = C:\Users\Guilherme\Documents\GitHub\richdomains.learn\.Net\OOP in real Projects\UtmBuilder.Core.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

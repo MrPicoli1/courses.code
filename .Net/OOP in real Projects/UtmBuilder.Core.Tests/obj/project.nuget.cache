@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OYd7XBbFeTKXsju7SLD+iruaM1OMJdl03vL77eFAj3YhkbN+Fo6yC98jtOG8ts6w/0OEgSMimUdmHZr0wsqnVw==",
+  "dgSpecHash": "L9hE8xfI0elzduwcsqJ4MUd4g2E05/1g3DBSh0tbWWKihlMloVQzb+yUE9wIUWMSgM7WxxCaHH0Aljbb8sUkzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\Documents\\GitHub\\richdomains.learn\\.Net\\OOP in real Projects\\UTMBuilder\\UtmBuilder.Core.Tests\\UtmBuilder.Core.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\Documents\\GitHub\\richdomains.learn\\.Net\\OOP in real Projects\\UtmBuilder.Core.Tests\\UtmBuilder.Core.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

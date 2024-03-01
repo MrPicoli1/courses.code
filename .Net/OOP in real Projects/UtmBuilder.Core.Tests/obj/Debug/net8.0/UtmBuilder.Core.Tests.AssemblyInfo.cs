@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UtmBuilder.Core.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70cda07b6cd93dd00319e28ced2483dc1056a836")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab787f0f632f6904ffc48cb513ec29ff61aa837d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UtmBuilder.Core.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UtmBuilder.Core.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
