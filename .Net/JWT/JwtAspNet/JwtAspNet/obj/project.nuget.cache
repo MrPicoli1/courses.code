@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dDTSI7eXZio9DX/SC0x1cwvyjI4imNcWBLwYA8W+kz3ImOFf/GgTlQ0Ht7ufrE6aEj50uQbWZ7JDKF+LFo4UHw==",
+  "dgSpecHash": "Z9N/9xp4YQomZUypQ2h+mDFzeCYKSufHmtj5bazFrbhGdqNy6NLQdsuJAwCrdGKCKZlJrGl19GXssDZWOykQbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\Documents\\GitHub\\richdomains.learn\\.Net\\JwtAspNet\\JwtAspNet\\JwtAspNet.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\Documents\\GitHub\\richdomains.learn\\.Net\\JWT\\JwtAspNet\\JwtAspNet\\JwtAspNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.2\\microsoft.aspnetcore.authentication.jwtbearer.8.0.2.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
