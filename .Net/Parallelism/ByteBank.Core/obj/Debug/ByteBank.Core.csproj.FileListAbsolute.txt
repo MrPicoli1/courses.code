@@ -1,0 +1,6 @@
+C:\Users\Guilherme\Documents\GitHub\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\bin\Debug\ByteBank.Core.dll
+C:\Users\Guilherme\Documents\GitHub\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\bin\Debug\ByteBank.Core.pdb
+C:\Users\Guilherme\Documents\GitHub\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\obj\Debug\ByteBank.Core.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\obj\Debug\ByteBank.Core.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\obj\Debug\ByteBank.Core.dll
+C:\Users\Guilherme\Documents\GitHub\Paralelismo-com-CSharp-e-.NET\ByteBank.Core\obj\Debug\ByteBank.Core.pdb
